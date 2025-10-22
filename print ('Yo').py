@@ -1,2 +1,0 @@
-print ('Yo')
-print ('Test')
